@@ -1,1 +1,1 @@
-#  <a href="https://cookbook.smokeybrew.io" target="_blank">cookbook.smokeybrew.io</a>
+#  <a href="https://cookbook.d33l.net" target="_blank">cookbook.d33l.net</a>
